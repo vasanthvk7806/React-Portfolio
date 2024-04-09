@@ -5,7 +5,7 @@ export default function Header() {
     const [viewMenu, setViewMenu]  = useState(false);
 
     return <header className="flex justify-between px-5 py-3 bg-primary ">
-        <a className="font-bold text-black" href="/">JV Logesh</a>
+        <a className="font-bold text-black" href="/">KV Vasanthakumar</a>
         <nav className="hidden md:block">
             <ul className="flex text-white ">
                 <li><a href="/">Home</a></li>
